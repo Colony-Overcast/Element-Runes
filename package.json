@@ -1,0 +1,22 @@
+{
+  "name": "element-runes",
+  "type": "module",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eventemitter3": "^5.0.1",
+    "ts-node": "^10.9.1",
+    "typed-emitter": "^2.1.0",
+    "typescript": "^5.0.4",
+    "zod": "^3.21.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.38.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Colony-Overcast",
+  "license": "MIT"
+}
